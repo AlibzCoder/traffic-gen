@@ -1,7 +1,7 @@
 # traffic-gen
 a small script written with node js net module to generate random traffic between multiple devices.
 
-`
+```
 {
     "ServerPort" : 6969,
     "ServerAddress" : "0.0.0.0",
@@ -13,4 +13,4 @@ a small script written with node js net module to generate random traffic betwee
         "127.0.0.1"
     ] // list of other devices to connect to
 }
-`
+```
