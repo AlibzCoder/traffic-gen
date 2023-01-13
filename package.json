@@ -1,0 +1,16 @@
+{
+  "name": "trafficgen",
+  "version": "1.0.0",
+  "description": "a program to generate random traffic on the network",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "random-bytes-readable-stream": "^3.0.0",
+    "stream-throttle": "^0.1.3"
+  }
+}

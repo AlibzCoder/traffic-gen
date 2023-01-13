@@ -1,0 +1,11 @@
+{
+    "ServerPort" : 6969,
+    "ServerAddress" : "0.0.0.0",
+    "ClientRetryInterval" : 30,
+    "TransmissionsTimeRange" : [45,90],
+    "TransmissionsSizeRange" : [128,192],
+    "TransmissionsGapTimeRange" : [120,180],
+    "IPs":[
+        "127.0.0.1"
+    ]
+}
